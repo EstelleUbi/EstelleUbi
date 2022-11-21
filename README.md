@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EstelleUbi
+- 👋 Hi, I’m @EstelleTrln
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning django python and react JS 
 
